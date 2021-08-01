@@ -1,0 +1,59 @@
+/* css file */
+
+* {
+    padding: 0;
+    margin: 0px;
+    font-family: 'Patrick Hand', cursive;
+}
+
+
+main {
+  background-color: navajowhite;
+}
+
+#header, #footer {
+    border-radius: 14px;
+    background-color: rgb(195, 243, 248);
+    border: solid grey 4px; 
+
+}
+
+#info {
+    background-color: rgb(253, 253, 212);
+    border-radius: 14px;
+    border: solid grey 4px;
+}
+
+#work {
+    background-color: rgb(255, 233, 213);
+    border: solid grey 4px;
+    border-radius: 14px;
+}
+
+h2, h3 {
+    text-decoration: underline;
+}
+
+ul li{
+    list-style-type: square;
+}
+
+img {
+    border-radius: 30%;
+}
+
+header {
+    margin-bottom: 4px;
+}
+
+footer {
+    margin-top: 4px;
+}
+
+.circle-list li{
+ list-style-type: disc;
+}
+
+#info h4 {
+    text-decoration: underline;
+}
